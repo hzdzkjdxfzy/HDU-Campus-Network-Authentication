@@ -27,7 +27,7 @@ always_online.py可采用"nohup"命令挂在后台：
 nohup python always_online.py &
 ```
 
-windows可采用"pythonw"命令挂在后台,任务计划程序实现开机自启动
-'''
+windows可采用"pythonw"命令挂在后台,任务计划程序实现开机自启动:
+``` bash
 pythonw always_online.py
-'''
+```
